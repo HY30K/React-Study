@@ -17,7 +17,7 @@ function App() {
 
       <button onClick={() => {
         let copy = [...title];
-        copy[0] = '응디?';
+        copy[0] = 'ㅎㅇ?';
         titleChange(copy);
       }}>글제목 수정</button>
 
